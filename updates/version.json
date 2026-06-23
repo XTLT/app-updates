@@ -1,13 +1,13 @@
 {
-  "latest_version": "2.1.0",
-  "version_code": 2,
-  "release_notes": "1. 新增版本自动检测功能\n2. 优化用户体验",
+  "latest_version": "2.0.0",
+  "version_code": 1,
+  "release_notes": "",
   "force_update": false,
   "file_size": 0,
   "download_url": "",
   "checksum": "",
-  "desktop_version": "2.1.0",
-  "desktop_version_code": 2,
-  "server_version": "2.1.0",
-  "server_version_code": 2
+  "desktop_version": "2.0.0",
+  "desktop_version_code": 1,
+  "server_version": "2.0.0",
+  "server_version_code": 1
 }
