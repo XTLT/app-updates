@@ -1,15 +1,15 @@
 {
-  "latest_version": "2.3.1",
-  "version_code": 6,
-  "release_notes": "1. 修复最小化托盘图标不显示的问题\n2. 服务器端更新不再下载桌面端安装包\n3. 自动更新后自动重启程序",
+  "latest_version": "2.3.2",
+  "version_code": 7,
+  "release_notes": "1. 托盘图标左键单击即可恢复窗口（改为单击）\n2. 最小化按钮保持最小化到任务栏",
   "force_update": false,
-  "file_size": 74573153,
-  "download_url": "https://gitee.com/tension0712/population-query-system/releases/download/v2.3.1/%E4%BA%BA%E5%8F%A3%E4%BF%A1%E6%81%AF%E6%9F%A5%E8%AF%A2%E7%B3%BB%E7%BB%9F.exe",
-  "download_url_github": "https://github.com/XTLT/population-query-system/releases/download/v2.3.1/default.exe",
-  "server_download_url": "https://gitee.com/tension0712/population-query-system/releases/download/v2.3.1/%E4%BA%BA%E5%8F%A3%E6%9F%A5%E8%AF%A2%E7%B3%BB%E7%BB%9F%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF.exe",
+  "file_size": 0,
+  "download_url": "",
+  "download_url_github": "",
+  "server_download_url": "",
   "checksum": "",
-  "desktop_version": "2.3.1",
-  "desktop_version_code": 6,
-  "server_version": "2.3.1",
-  "server_version_code": 6
+  "desktop_version": "2.3.2",
+  "desktop_version_code": 7,
+  "server_version": "2.3.2",
+  "server_version_code": 7
 }
