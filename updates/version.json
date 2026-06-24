@@ -1,14 +1,14 @@
 {
-  "latest_version": "2.2.1",
-  "version_code": 4,
-  "release_notes": "1. 修复自动更新：循环重试复制直到文件解锁成功\n2. 新增自动更新功能\n3. 修复网络模式下学生标记不显示\n4. 桌面端窗口自适应屏幕大小",
+  "latest_version": "2.3.0",
+  "version_code": 5,
+  "release_notes": "1. 最小化时隐藏到系统托盘，任务栏不再显示\n2. 修复自动更新文件锁定问题\n3. 修复网络模式下学生标记不显示\n4. 桌面端窗口自适应屏幕大小",
   "force_update": false,
-  "file_size": 74570804,
-  "download_url": "https://gitee.com/tension0712/population-query-system/releases/download/v2.2.1/%E4%BA%BA%E5%8F%A3%E4%BF%A1%E6%81%AF%E6%9F%A5%E8%AF%A2%E7%B3%BB%E7%BB%9F.exe",
-  "download_url_github": "https://github.com/XTLT/population-query-system/releases/download/v2.2.1/default.exe",
+  "file_size": 0,
+  "download_url": "",
+  "download_url_github": "",
   "checksum": "",
-  "desktop_version": "2.2.1",
-  "desktop_version_code": 4,
+  "desktop_version": "2.3.0",
+  "desktop_version_code": 5,
   "server_version": "2.1.0",
   "server_version_code": 2
 }
