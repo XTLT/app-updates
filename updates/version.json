@@ -1,17 +1,17 @@
 {
-  "latest_version": "2.3.4",
-  "version_code": 9,
-  "release_notes": "1. 桌面端关闭按钮改为最小化到系统托盘（重新安装即可）\n2. 修复打包后系统托盘功能失效的问题",
+  "latest_version": "2.3.5",
+  "version_code": 10,
+  "release_notes": "1. 桌面端关闭按钮最小化到系统托盘\n2. 更新对话框显示完整进度（检查/下载/验证/安装）\n3. 下载进度条+已下载MB+百分比",
   "force_update": false,
-  "file_size": 74573348,
+  "file_size": 74575317,
   "download_url": "",
   "download_url_github": "",
   "server_download_url": "",
-  "checksum": "sha256:da5b35df8e3a5c14e91a2ddcf9d5bbd71ebcd94db4de11db7108019882b437f3",
-  "desktop_version": "2.3.4",
-  "desktop_version_code": 9,
-  "server_version": "2.3.3",
-  "server_version_code": 8,
-  "server_file_size": 76591363,
-  "server_checksum": "sha256:da2a52b949d92c77f7c63754206c03d24ec696d8d87d5ea9c69c3940eed3b5b6"
+  "checksum": "sha256:27b3f7980417dd702a4f5abac6bd78c374be4362b831f6b51ba4aa45944b0223",
+  "desktop_version": "2.3.5",
+  "desktop_version_code": 10,
+  "server_version": "2.3.5",
+  "server_version_code": 10,
+  "server_file_size": 75438965,
+  "server_checksum": "sha256:a16c31e5cb03a63022dcdc40f1309fa397c674bc085e012d3a9f2ac0f91492eb"
 }
