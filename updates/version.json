@@ -1,15 +1,17 @@
 {
-  "latest_version": "2.3.3",
-  "version_code": 8,
-  "release_notes": "1. 服务器端支持自动更新下载并重启\n2. 桌面端关闭按钮隐藏到托盘（需重新安装）",
+  "latest_version": "2.3.4",
+  "version_code": 9,
+  "release_notes": "1. 桌面端关闭按钮改为最小化到系统托盘（重新安装即可）\n2. 修复打包后系统托盘功能失效的问题",
   "force_update": false,
-  "file_size": 0,
+  "file_size": 74573348,
   "download_url": "",
   "download_url_github": "",
   "server_download_url": "",
-  "checksum": "",
-  "desktop_version": "2.3.3",
-  "desktop_version_code": 8,
+  "checksum": "sha256:da5b35df8e3a5c14e91a2ddcf9d5bbd71ebcd94db4de11db7108019882b437f3",
+  "desktop_version": "2.3.4",
+  "desktop_version_code": 9,
   "server_version": "2.3.3",
-  "server_version_code": 8
+  "server_version_code": 8,
+  "server_file_size": 76591363,
+  "server_checksum": "sha256:da2a52b949d92c77f7c63754206c03d24ec696d8d87d5ea9c69c3940eed3b5b6"
 }
